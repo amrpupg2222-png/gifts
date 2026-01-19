@@ -1,0 +1,4 @@
+flask
+telethon
+pyTelegramBotAPI
+sqlalchemy
