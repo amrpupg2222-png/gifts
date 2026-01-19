@@ -24,7 +24,6 @@ from config import (
     TARGET_CHANNEL
 )
 
-API_ID = int(API_ID_ENV)
 SOURCE_CHANNEL = "ResellGifts1","recalegift","Sandoooo_124","yyong2504"
 TARGET_CHANNEL = "xxx_gifts_1"
 
